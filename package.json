@@ -1,0 +1,14 @@
+{
+  "name": "rpc-icin-moduler",
+  "version": "9999999999999999999999999999999.0.0",
+  "description": "Rich Presence İçin Node-modules",
+  "main": "main.js",
+  "dependencies": {
+    "discord-rpc": "git+https://github.com/djs/discord-rpc.git"
+  },
+  "scripts": {
+    "test": "echo naber"
+  },
+  "author": "Qwerty.R",
+  "license": "ISC"
+}
